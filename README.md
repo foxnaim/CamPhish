@@ -1,3 +1,8 @@
+> **foxnaim** · Инструмент для получения снимков камеры и GPS-координат устройства жертвы по ссылке
+>
+> Готовая основа под клиентский проект. Стек: HTML.
+> Лицензия GPL-3.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 ![CamPhish](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
